@@ -24,9 +24,9 @@
   "author": "yanglvyou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yanglvyou/tarojs-plugin-router-generator/issues"
+    "url": "https://github.com/yanglvyou/taro-generate-router-method/issues"
   },
-  "homepage": "https://github.com/yanglvyou/tarojs-plugin-router-generator#readme",
+  "homepage": "https://github.com/yanglvyou/taro-generate-router-method#readme",
   "dependencies": {},
   "devDependencies": {
     "@tarojs/helper": "^3.4.0",
